@@ -2,13 +2,12 @@
 
 ## Description
 
+![alt top of page](README-images/top-of-page.png)
+
 This site was built using [GitHub Pages](https://pages.github.com/).
+
 **Copied below is a link to the deployed application:**
 (https://katebonner.github.io/challenge-1)
-
-!()
-
-If you need an example of a good README, check out the [VS Code GitHub repository](https://github.com/microsoft/vscode).
 
 
 ## Table of Contents (Optional)
