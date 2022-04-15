@@ -9,7 +9,7 @@ This project is a learning assignment derivative of starter code given in the [c
 The task at hand was to improve its functionality without changing its purpose. The main improvements regarded accessibility as it relates to ensuring element order is logical, css atributes are refined, semantic HTML is in place, accessible alt atributes are available, heading attributes are sequential, and relevant comments are added.
 
 
-**Copied below is a link to the deployed application:**
+**Copied here is a link to the deployed application:**
 (https://katebonner.github.io/challenge-1)
 
 
@@ -25,28 +25,28 @@ The task at hand was to improve its functionality without changing its purpose. 
 
 To install this project, navigate to your comand line console (for simplicity we will assume you are using terminal) and:
 
-Create a directory in which this project can live
+Create a directory in which this project can live.
 ```md
 mkdir <directory-name>
 ```
-Open the directory you just created
+Open the directory you just created.
 ```md
 cd <directory-name>
 ```
-Clone this repository
+Clone this repository.
 ```md
 git clone git@github.com:katebonner/challenge-1.git
 ```
-open the directory you have just created in your code editor of choice either manually or via:
+Open the directory you have just created in your code editor of choice either manually or via:
 ```md
 code .
 ```
 
 ## Usage
 
-This project can be used as refrence for simple html and css formatting. Additionally, if you choose to refine the given starter code it offers a solution with which you can compare yours.
+This project can be used as refrence for simple html and css formatting. Additionally, if you choose to refine the given starter code, it offers a solution with which you can compare yours.
 
-I have attached here an image of the more critical body layout.
+I have attached here an image of the more critical body layout:
 
 ![bottom of page](README-images/bottom-of-page.png)
 
