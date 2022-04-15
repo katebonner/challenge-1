@@ -5,10 +5,7 @@
 ```
 - accessibility standards:
     - lighthouse dev tool
-    - logical html structure
-    - simplified css
-    - css comments 
-    - heading elements are sequential
+
 
 
 ## Review
