@@ -2,9 +2,11 @@
 
 ## Description
 
+This project is a learning assignment derivative of starter code given in the [credits](#credits) section. It is a simple website containing several sections and intra-page navigation.
+
 ![alt top of page](README-images/top-of-page.png)
 
-This project is a learning assignment derivative of starter code given in the (#credits) section. The task at hand was to improve its functionality without changing its purpose. The main improvements regarded accessibility as it relates to ensuring logical element order, css atributes are refined, semantic HTML is in place, accessible alt atributes are available, heading attributes are sequential, and relevant comments are added.
+The task at hand was to improve its functionality without changing its purpose. The main improvements regarded accessibility as it relates to ensuring logical element order, css atributes are refined, semantic HTML is in place, accessible alt atributes are available, heading attributes are sequential, and relevant comments are added.
 
 
 **Copied below is a link to the deployed application:**
@@ -21,28 +23,32 @@ This project is a learning assignment derivative of starter code given in the (#
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+To install this project, navigate to your comand line console (for simplicity we will assume you are using terminal) and:
 
-To install this project, navigate to your comand line console (for simplicity we will assume you are using terminal) and type:
-
-
+Create a directory in which this project can live
 ```md
 mkdir <directory-name>
-cd <directory-name>
-git clone git@github.com:katebonner/challenge-1.git
-code .pw
 ```
-
+Open the directory you just created
+```md
+cd <directory-name>
+```
+Clone this repository
+```md
+git clone git@github.com:katebonner/challenge-1.git
+```
+open the directory you have just created in your code editor of choice either manually or via:
+```md
+code .
+```
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+This project can be used as refrence for simple html and css formatting. Additionally, if you choose to refine the given starter code it offers a solution with which you can compare yours.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+I have attached here an image of the more critical body layout.
 
-```md
-![alt text](assets/images/screenshot.png)
-```
+![bottom of page](README-images/bottom-of-page.png.png)
 
 
 ## Credits
