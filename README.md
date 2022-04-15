@@ -48,7 +48,7 @@ This project can be used as refrence for simple html and css formatting. Additio
 
 I have attached here an image of the more critical body layout.
 
-![bottom of page](README-images/bottom-of-page.png.png)
+![bottom of page](README-images/bottom-of-page.png)
 
 
 ## Credits
