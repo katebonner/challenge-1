@@ -1,4 +1,4 @@
-# 1. HTML CSS Git Challenge: Code Refactor
+# Columbia University Coding Bootcamp HTML CSS Git Challenge 1: Code Refactor
 
 ## Description
 
