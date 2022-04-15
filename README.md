@@ -6,7 +6,7 @@ This project is a learning assignment derivative of starter code given in the [c
 
 ![alt top of page](README-images/top-of-page.png)
 
-The task at hand was to improve its functionality without changing its purpose. The main improvements regarded accessibility as it relates to ensuring logical element order, css atributes are refined, semantic HTML is in place, accessible alt atributes are available, heading attributes are sequential, and relevant comments are added.
+The task at hand was to improve its functionality without changing its purpose. The main improvements regarded accessibility as it relates to ensuring element order is logical, css atributes are refined, semantic HTML is in place, accessible alt atributes are available, heading attributes are sequential, and relevant comments are added.
 
 
 **Copied below is a link to the deployed application:**
