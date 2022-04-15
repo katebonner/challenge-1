@@ -54,6 +54,7 @@ I have attached here an image of the more critical body layout.
 ## Credits
 
 The starter code for this project comes from [https://github.com/coding-boot-camp/urban-octo-telegram](https://github.com/coding-boot-camp/urban-octo-telegram)
+
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 
