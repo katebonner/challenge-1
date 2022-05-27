@@ -10,7 +10,7 @@ The task at hand was to improve its functionality without changing its purpose. 
 
 
 **Copied here is a link to the deployed application:**
-(https://katebonner.github.io/challenge-1)
+(https://katebonner.github.io/code-refactor/)
 
 
 ## Table of Contents 
@@ -35,7 +35,7 @@ cd <directory-name>
 ```
 Clone this repository.
 ```md
-git clone git@github.com:katebonner/challenge-1.git
+git clone git@github.com:katebonner/code-refactor.git
 ```
 Open the directory you have just created in your code editor of choice either manually or via:
 ```md
